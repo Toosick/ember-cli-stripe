@@ -87,7 +87,7 @@ export default Ember.Component.extend({
    * Specify whether Checkout should collect the customer's billing address
    * (true or false). The default is false.
    */
-  address: false,
+  billingAddress: false,
 
   /**
    * If you already know the email address of your user, you can provide
@@ -232,7 +232,7 @@ export default Ember.Component.extend({
       'currency',
       'panelLabel',
       'zipCode',
-      'address',
+      'billingAddress',
       'email',
       'label',
       'allowRememberMe',
