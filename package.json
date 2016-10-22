@@ -1,8 +1,8 @@
 {
-  "name": "ember-cli-stripe",
-  "version": "0.4.0",
+  "name": "ember-cli-stripe-patched",
+  "version": "0.4.1",
   "description": "Stripe checkout for Ember",
-  "author": "Bill Curtis <wcurtis@sweettoothhq.com>",
+  "author": "Preston Tighe <preston_tighe@yahoo.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -14,16 +14,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sweettooth/ember-cli-stripe"
+    "url": "https://github.com/toosick/ember-cli-stripe-patched"
   },
   "bugs": {
-    "url": "https://github.com/sweettooth/ember-cli-stripe/issues"
+    "url": "https://github.com/toosick/ember-cli-stripe-patched/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
   },
   "license": "MIT",
-  "homepage": "https://github.com/sweettooth/ember-cli-stripe",
+  "homepage": "https://github.com/toosick/ember-cli-stripe-patched",
   "devDependencies": {
     "body-parser": "^1.2.0",
     "broccoli-asset-rev": "0.3.1",

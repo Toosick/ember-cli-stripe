@@ -7,7 +7,7 @@ This Ember CLI addon provides a component for adding Stripe checkout functionali
 
 ## Installation
 ```sh
-npm install ember-cli-stripe --save-dev
+npm install ember-cli-stripe-patched --save-dev
 ```
 
 ## Setup
